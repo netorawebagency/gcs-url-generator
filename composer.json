@@ -1,5 +1,5 @@
 {
-  "name": "nathandunn/gcs-url-generator",
+  "name": "netorawebagency/gcs-url-generator",
   "description": "Google Cloud Storage URL Generator for spatie/laravel-medialibrary.",
   "license": "MIT",
   "keywords": [],
@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "NathanDunn\\UrlGenerator\\": "src/"
+      "netorawebagency\\UrlGenerator\\": "src/"
     }
   },
   "minimum-stability": "stable"
