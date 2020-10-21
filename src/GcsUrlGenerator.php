@@ -1,6 +1,6 @@
 <?php
 
-namespace NathanDunn\UrlGenerator;
+namespace netorawebagency\UrlGenerator;
 
 use DateTimeInterface;
 use Spatie\MediaLibrary\UrlGenerator\BaseUrlGenerator;
